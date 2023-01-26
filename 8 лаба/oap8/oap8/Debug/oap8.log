@@ -1,0 +1,3 @@
+﻿  oap8.cpp
+F:\мои лабы\оап\8 лаба\oap8\oap8\oap8.cpp(6,1): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+  oap8.vcxproj -> F:\мои лабы\оап\8 лаба\oap8\Debug\oap8.exe

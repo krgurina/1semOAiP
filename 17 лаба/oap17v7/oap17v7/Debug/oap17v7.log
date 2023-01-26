@@ -1,0 +1,3 @@
+﻿  oap17v7.cpp
+F:\мои лабы\оап\17 лаба\oap17v7\oap17v7\oap17v7.cpp(63,1): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+  oap17v7.vcxproj -> F:\мои лабы\оап\17 лаба\oap17v7\Debug\oap17v7.exe

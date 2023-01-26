@@ -1,0 +1,4 @@
+﻿  oap10v7.cpp
+F:\мои лабы\оап\10 лаба\oap10v7\oap10v7\oap10v7.cpp(7,1): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+F:\мои лабы\оап\10 лаба\oap10v7\oap10v7\oap10v7.cpp(29,64): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+  oap10v7.vcxproj -> F:\мои лабы\оап\10 лаба\oap10v7\Debug\oap10v7.exe
